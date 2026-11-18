@@ -1,0 +1,22 @@
+# Simulation build output
+obj_xsim/
+obj_mac/
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+.Xil/
+
+# Vivado project output
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
